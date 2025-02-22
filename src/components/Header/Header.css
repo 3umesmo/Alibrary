@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  background-color: white;
+  justify-content: space-evenly;
+}
+
+.opcoes {
+  display: flex;
+  align-self: center;
+}
+
+.opcao {
+  min-width: 120px;
+  font-size: 16px;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}
